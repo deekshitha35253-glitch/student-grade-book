@@ -16,8 +16,16 @@ Build a simple Python CLI application to manage students, subjects, marks, grade
 
 ## How to Run
 
+Mac / Linux:
+
 ```bash
 python3 main.py
+```
+
+Windows:
+
+```bash
+python.exe main.py
 ```
 
 ## Input Format
@@ -81,6 +89,14 @@ Subjects Count: 1
 
 ## Test Command
 
+Mac / Linux:
+
 ```bash
 python3 -m unittest test_gradebook.py
+```
+
+Windows:
+
+```bash
+python.exe -m unittest test_gradebook.py
 ```
