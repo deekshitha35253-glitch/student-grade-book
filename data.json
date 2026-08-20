@@ -1,0 +1,11 @@
+{
+  "students": {
+    "S01": "Ravi"
+  },
+  "subjects": {
+    "PYTHON": "Python"
+  },
+  "marks": {
+    "S01:PYTHON": 82
+  }
+}
