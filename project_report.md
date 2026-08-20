@@ -76,6 +76,12 @@ Test command:
 python3 -m unittest test_gradebook.py
 ```
 
+Windows:
+
+```bash
+python.exe -m unittest test_gradebook.py
+```
+
 ## Demonstration
 
 Main workflow:
